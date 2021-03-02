@@ -8,9 +8,10 @@ Partner data validation for Arizona, from VEST 2018.
   - Online: https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/UBKYRU/CYEKJ4&version=32.0
   - Source: VEST, Harvard Dataverse
   - AWS: `az_2018.zip`
-  - Accessed: 2/3/2021
+  - Accessed: 3/2/2021
+  - Previous version of the file is: `az_2018_vest_v1.zip` (vest version 32), accessed 2/3/2021
   - Documentation file: 
-    - Online: https://dataverse.harvard.edu/file.xhtml?fileId=4366213&version=32.0
+    - Online: https://dataverse.harvard.edu/file.xhtml?fileId=4366213&version=33.0
     - AWS: `documentation.txt`
     - Accessed: 2/3/2021
 - File: Election results, 2018
