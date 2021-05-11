@@ -1,7 +1,4 @@
 # pdv-az
-Partner data validation for Arizona. Partners include MGGG, PGP and VEST.
-
-# pdv-az
 
 The Redistricting Data Hub (RDH) repository to validate our data partners' precinct-level election result shapefiles. The scripts available in this repository are used to write the reports available at [redistrictrictingdatahub.org]([https://redistrictingdatahub.org/](https://redistrictingdatahub.org/)). 
 
