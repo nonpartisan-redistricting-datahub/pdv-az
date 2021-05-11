@@ -1,7 +1,5 @@
 ## MGGG AZ
 
----
-
 RDH's partner data validation for MGGG's AZ file. 
 
 View complete report and download data [here](https://redistrictingdatahub.org/dataset/mggg-arizona-precincts-and-election-results/).
