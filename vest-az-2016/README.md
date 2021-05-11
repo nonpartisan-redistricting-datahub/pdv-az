@@ -1,17 +1,22 @@
 # pdv-az
 Partner data validation for Arizona, from VEST 2016. 
 
+Our final validation report for this dataset is available [here](https://redistrictingdatahub.org/dataset/vest-2016-arizona-precinct-and-election-results/). 
+
+We do not have the raw data sources available on this Github due to file constraints, but we are happy to share them if needed. 
+
+Please reach out to info@redistrictingdatahub.org to reach our support team if you have any questions.
+
 ## Raw from source
 
 ### Accessible files
 - File: VEST Arizona, 2016
   - Online: https://dataverse.harvard.edu/file.xhtml?fileId=4422286&version=54.0
   - Source: VEST, Harvard Dataverse
-  - AWS: `vest_az_2016.zip`
+  - AWS: `vest_az_2016.zip` (available upon request)
   - Accessed: 3/26/2021
   - Documentation file: 
     - Online: https://dataverse.harvard.edu/file.xhtml?fileId=4441609&version=54.0
-    - AWS: `documentation.txt`
     - Accessed: 3/26/2021
 - File: Election results, 2016
   - Online: https://apps.azsos.gov/election/2016/General/ElectionInformation.htm
@@ -29,7 +34,7 @@ Partner data validation for Arizona, from VEST 2016.
 - File: Precinct-level shapefile used by VEST
   - Note from VEST documentation: "Precinct shapefile from Arizona Secretary of State via personal communication."
   - Note: we reached out to Garrett Archer, formerly Senior Elections Analyst with the Arizona Secretary of State and currently a Data Analyst with ABC15 Arizona, because he posted the AZ 2018 precinct shapefile on Kaggle. He emailed us the following file for 2016: 
-  - AWS: `pct_2016.zip`
+  - AWS: `pct_2016.zip` (available upon request)
   - Received: 3/23/2021
 
 ## Processing
