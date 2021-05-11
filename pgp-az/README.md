@@ -1,9 +1,9 @@
-- raw-from-source 
-   - Election results for Arizona: [Precinct-level data 2018](https://github.com/openelections/openelections-data-az/blob/master/2018/20181106__az__general__precinct.csv)
-   - 2016 Precinct-Level Election Results: [Voting and Election Science Team, 2018, "2016 Precinct-Level Election Results", https://doi.org/10.7910/DVN/NH5S2I, Harvard Dataverse, V39](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/NH5S2I/XEVMIY&version=39.0) -- file `az_2016.zip`
-   - 2018 Precinct-Level Election Results: [Voting and Election Science Team, 2019, "2018 Precinct-Level Election Results", https://doi.org/10.7910/DVN/UBKYRU, Harvard Dataverse, V17](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/UBKYRU/CYEKJ4&version=17.0) -- file `az_2018.zip`
-- file-processing
-   - PGP final shapefiles on [OpenPrecincts](https://openprecincts.org/az/): -- in `output_2016.zip` and `output_2018.zip`
-   - Processing and validation steps -- file `pgp-az`
-   - More detailed [writeup](https://docs.google.com/document/d/1ry1a2iiGdkklo8oUnjO5vmlFnavmdmr0naw786L1iIQ/edit)
-- final-file (shapefile with data dictionary)
+## PGP Arizona 
+
+This directory is incomplete. 
+
+The PGP Arizona data sets are copies of the AZ 2016 and 2018 file from VEST. The RDH decided to not post the PGP copy of the files on the RDH website, so there is not a corresponding validation report for this file. 
+
+Processing and validation steps -- file `pgp-az.ipynb`
+
+For validation and relevant data, see the [RDH VEST 2018](https://redistrictingdatahub.org/dataset/vest-2018-arizona-precinct-and-election-results/) and [RDH VEST 2016](https://redistrictingdatahub.org/dataset/vest-2016-arizona-precinct-and-election-results/). 
