@@ -6,6 +6,12 @@ We do not have most of the raw data sources available on this Github due to file
 
 Please reach out to info@redistrictingdatahub.org to reach our support team if you have any questions. 
 
+## vest-az-2020
+
+RDH's partner data validation for VEST's 2020 AZ file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4773532&version=9.0).
+
+RDH's report is available [here](https://redistrictingdatahub.org/dataset/vest-2020-arizona-precinct-and-election-results/).
+
 ## vest-az-2018
 
 RDH's partner data validation for VEST's 2018 AZ file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/UBKYRU/CYEKJ4&version=32.0).
