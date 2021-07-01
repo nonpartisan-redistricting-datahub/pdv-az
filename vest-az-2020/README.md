@@ -11,12 +11,12 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 ### Accessible files:
 
 - File: VEST AZ 2020 file
-   - Date accessed: 6/29/2021
-   - Link: https://dataverse.harvard.edu/file.xhtml?fileId=4773532&version=9.0
+   - Date accessed: 7/1/2021
+   - Link: https://dataverse.harvard.edu/file.xhtml?fileId=4864722&version=13.0
    - File: `az_2020.zip`
 - File: VEST documentation file, 2020
-   - Date accessed: 6/29/2021
-   - Link: https://dataverse.harvard.edu/file.xhtml?fileId=4773529&version=9.0
+   - Date accessed: 7/1/2021
+   - Link: https://dataverse.harvard.edu/file.xhtml?fileId=4863160&version=13.0
    - File: `documentation.txt`
 - File: Election results, 2020
   - Date accessed: 6/8/2021
