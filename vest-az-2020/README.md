@@ -35,4 +35,4 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 ## File processing:
 
-`vest-al-2020-validation.ipynb` is the script that is the basis of the validation report
+`vest-az-2020-validation.ipynb` is the script that is the basis of the validation report
